@@ -64,5 +64,5 @@ FukuFukuはFukuoka(福岡)のFuku(福)にちなんで作った名前で、福岡
 <br>
 
 # リポジトリ
-- [フロントエンド](https://github.com/yju-FukuFuku/FukuFuku_Backend-repo)
-- [バックエンド](https://github.com/yju-FukuFuku/FukuFuku_Frontend-repo)
+- [フロントエンド](https://github.com/yju-FukuFuku/FukuFuku_Frontend-repo)
+- [バックエンド](https://github.com/yju-FukuFuku/FukuFuku_Backend-repo)
