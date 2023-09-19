@@ -1,7 +1,7 @@
 # [FukuFuku]()
 
 <div align="center" style="display:flex;">
-    <img src="/profile/fukufuku_logo.png" width="100" alt="logo"/>
+    <img src="logo.png" width="100" alt="logo"/>
 </div>
 
 # 目次
