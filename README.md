@@ -20,6 +20,8 @@
 
 [7. リポジトリ](#リポジトリ)
 
+[8. コアー機能](#コアー機能)
+
 # チームメンバー
 
 |[カン・ジュウォン](https://github.com/Z00One)|[キム·ギュミン](https://github.com/kyumin1227)|[パク・ジョンミン](https://github.com/dorimu0)|[ソク・ジンソク](https://github.com/Lainari)|
@@ -72,3 +74,26 @@ FukuFukuはFukuoka(福岡)のFuku(福)にちなんで作った名前で、福岡
 # リポジトリ
 - [フロントエンド](https://github.com/yju-FukuFuku/FukuFuku_Frontend-repo)
 - [バックエンド](https://github.com/yju-FukuFuku/FukuFuku_Backend-repo)
+<br>
+
+# コアー機能
+- 投稿CRUD
+- 管理者機能
+  - 不適切なコメントの場合は削除ができます。
+  - 不適切な投稿を削除、修正することができます。
+
+|投稿作成|
+| :-: |
+|![게시글 생성](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/bdff1a96-b2b2-4dea-b290-5ae743123083)|
+
+|投稿修正|
+| :-: |
+|![게시글 수정](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/c49a32b6-75b5-4115-8c24-6c1304ba096e)|
+
+|投稿削除|
+| :-: |
+|![게시글 삭제](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/a668df4c-5dec-4f70-a47f-a12c07cd8120)|
+
+|管理者機能|
+| :-: |
+|![관리자 권한](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/a7b309c6-9f3c-4be4-9e6a-d85413ed5973)|
