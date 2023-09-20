@@ -14,9 +14,11 @@
 
 [4. アーキテクチャ](#アーキテクチャ)
 
-[5. API設計](#API設計)
+[5. ERD](#ERD)
 
-[6. リポジトリ](#リポジトリ)
+[6. API設計](#API設計)
+
+[7. リポジトリ](#リポジトリ)
 
 # チームメンバー
 
@@ -58,6 +60,10 @@ FukuFukuはFukuoka(福岡)のFuku(福)にちなんで作った名前で、福岡
 # アーキテクチャ
 ![FukuFuku_architecture](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/342d367c-0933-4eb5-9aef-909260c8abe2)
 <br>
+
+# ERD
+![ERD](https://github.com/yju-FukuFuku/FukuFuku/assets/102473964/cdb5e54a-e65d-4de3-8698-55d0ecad3684)
+
 
 # API設計
 こちらの[Notion](https://rhinestone-tarragon-315.notion.site/cc21cc2dbaa148ca806adc547dae3f89?v=3b325685b7f94afdb7f1ed09765e3abf)のページをご参考になさってください。<br>
