@@ -68,7 +68,7 @@ FukuFukuはFukuoka(福岡)のFuku(福)にちなんで作った名前で、福岡
 <br>
 
 # API設計
-こちらの[Notion](https://rhinestone-tarragon-315.notion.site/cc21cc2dbaa148ca806adc547dae3f89?v=3b325685b7f94afdb7f1ed09765e3abf)のページをご参考になさってください。<br>
+こちらの[Notion](https://rhinestone-tarragon-315.notion.site/cc21cc2dbaa148ca806adc547dae3f89?v=3b325685b7f94afdb7f1ed09765e3abf)のページをご参照ください。<br>
 <br>
 
 # リポジトリ
